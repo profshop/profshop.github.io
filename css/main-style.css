@@ -1,0 +1,26 @@
+.organizer-header {
+  margin: 0;
+}
+
+.organizer-content {
+  padding: 1em;
+}
+
+.organizer-pic {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 20em;
+}
+
+.organizer-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
